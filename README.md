@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Okundin
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Go
+- 🌱 I’m currently learning Go
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me okundin@gmail.com
 
