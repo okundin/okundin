@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Okundin
+- 👋 Hi, I’m @okundin
 - 👀 I’m interested in Go
 - 🌱 I’m currently learning Go
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me okundin@gmail.com
+- 📫 How to reach me okundin@yandex.ru
 
 <!---
 Okundin/Okundin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
